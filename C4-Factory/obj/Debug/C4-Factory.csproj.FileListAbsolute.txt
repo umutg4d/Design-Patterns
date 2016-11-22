@@ -1,0 +1,6 @@
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C4-Factory\bin\Debug\C4-Factory.exe.config
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C4-Factory\obj\Debug\C4-Factory.csprojResolveAssemblyReference.cache
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C4-Factory\bin\Debug\C4-Factory.exe
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C4-Factory\bin\Debug\C4-Factory.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C4-Factory\obj\Debug\C4-Factory.exe
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C4-Factory\obj\Debug\C4-Factory.pdb

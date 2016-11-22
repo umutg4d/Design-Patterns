@@ -1,0 +1,6 @@
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C2-Observer\bin\Debug\C2-Observer.exe.config
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C2-Observer\bin\Debug\C2-Observer.exe
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C2-Observer\bin\Debug\C2-Observer.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C2-Observer\obj\Debug\C2-Observer.exe
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C2-Observer\obj\Debug\C2-Observer.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\DesignPattern\C2-Observer\obj\Debug\C2-Observer.csprojResolveAssemblyReference.cache
